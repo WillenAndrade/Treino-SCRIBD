@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+body{
+    background: lightgoldenrodyellow;
+}
+
+h2 {
+    padding: 30px;
+}

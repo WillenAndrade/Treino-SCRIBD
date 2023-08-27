@@ -1,0 +1,15 @@
+Juros simples;
+
+M = C + J
+
+J = C . i . T
+
+Juros compostos;
+
+M = C*(1+i)^t
+
+Descri��o 
+C = Capital inicial
+i = taxa: taxa de juros
+t = tempo
+M = montante  

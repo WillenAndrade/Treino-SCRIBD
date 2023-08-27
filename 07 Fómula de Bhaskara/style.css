@@ -1,0 +1,50 @@
+body {
+    background: whitesmoke;
+}
+
+h2 {
+    line-height: 1.2;
+}
+
+p {
+    color: blue;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    margin: 50px auto;
+    background: lightgreen;
+    border-radius: 6px;
+    border: 2px solid forestgreen;
+}
+
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteiner p {
+    font-size: 12px;
+    color: black;
+}
+
+input {
+    width: 40px;
+    height: 20px;
+    margin: 5px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 6px;
+    cursor: pointer;
+
+
+}

@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+body {
+    background: lightseagreen;
+}
+h2 {
+    line-height: 1.6;
+    padding: 30px 20px;
+}
+
+.menu {
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    border: 2px solid blue;
+    background: linear-gradient(to left, gray, white);
+    border-radius: 5px;
+    width: 200px;
+    height: 150px;
+}
+
+.menu input {
+    width: 60%;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.menu button {
+    height: 30px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+}

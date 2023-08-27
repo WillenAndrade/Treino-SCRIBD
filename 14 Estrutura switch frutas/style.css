@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+body {
+    background: lightseagreen;
+}
+
+h2 {
+    line-height: 1.6;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+body {
+    background: limegreen;
+}
+
+h2 {
+    line-height: 1.6;
+}
+
+h3 {
+    padding: 10px;
+}
+
+.box {
+    width: 200px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background: gray;
+    margin: 20px auto;
+}
